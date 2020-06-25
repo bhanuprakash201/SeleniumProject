@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Suite" parallel="none">
+  <test name="Test">	
+  	<parameter name = "URL" value = "http://testingmasters.com/hrm/"/>
+	<parameter name = "userID" value="user02"/>
+	<parameter name = "password" value="TM1234"/>
+    <classes>
+      <class name="TestNGData.ParametersDemo"/>      
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->

@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="1" total="6" passed="5">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="93" started-at="2020-05-26T22:05:49 IST" finished-at="2020-05-26T22:05:49 IST">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="93" started-at="2020-05-26T22:05:49 IST" finished-at="2020-05-26T22:05:49 IST">
+      <class name="TestNGPack.C3">
+        <test-method status="PASS" signature="bc()[pri:0, instance:TestNGPack.C3@3224f60b]" name="bc" is-config="true" duration-ms="1" started-at="2020-05-26T22:05:49 IST" finished-at="2020-05-26T22:05:49 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- bc -->
+        <test-method status="PASS" signature="bm()[pri:0, instance:TestNGPack.C3@3224f60b]" name="bm" is-config="true" duration-ms="2" started-at="2020-05-26T22:05:49 IST" finished-at="2020-05-26T22:05:49 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- bm -->
+        <test-method status="PASS" signature="TC03()[pri:1, instance:TestNGPack.C3@3224f60b]" name="TC03" duration-ms="2" started-at="2020-05-26T22:05:49 IST" finished-at="2020-05-26T22:05:49 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC03 -->
+        <test-method status="PASS" signature="am()[pri:0, instance:TestNGPack.C3@3224f60b]" name="am" is-config="true" duration-ms="1" started-at="2020-05-26T22:05:49 IST" finished-at="2020-05-26T22:05:49 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- am -->
+        <test-method status="PASS" signature="bm()[pri:0, instance:TestNGPack.C3@3224f60b]" name="bm" is-config="true" duration-ms="0" started-at="2020-05-26T22:05:49 IST" finished-at="2020-05-26T22:05:49 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- bm -->
+        <test-method status="PASS" signature="TC01()[pri:2, instance:TestNGPack.C3@3224f60b]" name="TC01" duration-ms="2" started-at="2020-05-26T22:05:49 IST" finished-at="2020-05-26T22:05:49 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC01 -->
+        <test-method status="PASS" signature="am()[pri:0, instance:TestNGPack.C3@3224f60b]" name="am" is-config="true" duration-ms="2" started-at="2020-05-26T22:05:49 IST" finished-at="2020-05-26T22:05:49 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- am -->
+        <test-method status="PASS" signature="ac()[pri:0, instance:TestNGPack.C3@3224f60b]" name="ac" is-config="true" duration-ms="1" started-at="2020-05-26T22:05:49 IST" finished-at="2020-05-26T22:05:49 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ac -->
+      </class> <!-- TestNGPack.C3 -->
+      <class name="TestNGPack.C1">
+        <test-method status="PASS" signature="bc()[pri:0, instance:TestNGPack.C1@3b084709]" name="bc" is-config="true" duration-ms="0" started-at="2020-05-26T22:05:49 IST" finished-at="2020-05-26T22:05:49 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- bc -->
+        <test-method status="PASS" signature="bm()[pri:0, instance:TestNGPack.C1@3b084709]" name="bm" is-config="true" duration-ms="0" started-at="2020-05-26T22:05:49 IST" finished-at="2020-05-26T22:05:49 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- bm -->
+        <test-method status="PASS" signature="TC01()[pri:0, instance:TestNGPack.C1@3b084709]" name="TC01" duration-ms="9" started-at="2020-05-26T22:05:49 IST" finished-at="2020-05-26T22:05:49 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC01 -->
+        <test-method status="PASS" signature="am()[pri:0, instance:TestNGPack.C1@3b084709]" name="am" is-config="true" duration-ms="0" started-at="2020-05-26T22:05:49 IST" finished-at="2020-05-26T22:05:49 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- am -->
+        <test-method status="PASS" signature="TC02()[pri:0, instance:TestNGPack.C1@3b084709]" name="TC02" duration-ms="2" started-at="2020-05-26T22:05:49 IST" finished-at="2020-05-26T22:05:49 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC02 -->
+        <test-method status="PASS" signature="bm()[pri:0, instance:TestNGPack.C1@3b084709]" name="bm" is-config="true" duration-ms="0" started-at="2020-05-26T22:05:49 IST" finished-at="2020-05-26T22:05:49 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- bm -->
+        <test-method status="PASS" signature="am()[pri:0, instance:TestNGPack.C1@3b084709]" name="am" is-config="true" duration-ms="0" started-at="2020-05-26T22:05:49 IST" finished-at="2020-05-26T22:05:49 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- am -->
+        <test-method status="PASS" signature="ac()[pri:0, instance:TestNGPack.C1@3b084709]" name="ac" is-config="true" duration-ms="1" started-at="2020-05-26T22:05:49 IST" finished-at="2020-05-26T22:05:49 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ac -->
+      </class> <!-- TestNGPack.C1 -->
+      <class name="TestNGPack.C2">
+        <test-method status="PASS" signature="as()[pri:0, instance:TestNGPack.C2@57855c9a]" name="as" is-config="true" duration-ms="10" started-at="2020-05-26T22:05:49 IST" finished-at="2020-05-26T22:05:49 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- as -->
+        <test-method status="PASS" signature="bt()[pri:0, instance:TestNGPack.C2@57855c9a]" name="bt" is-config="true" duration-ms="0" started-at="2020-05-26T22:05:49 IST" finished-at="2020-05-26T22:05:49 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- bt -->
+        <test-method status="PASS" signature="TC03()[pri:0, instance:TestNGPack.C2@57855c9a]" name="TC03" duration-ms="5" started-at="2020-05-26T22:05:49 IST" finished-at="2020-05-26T22:05:49 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC03 -->
+      </class> <!-- TestNGPack.C2 -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
